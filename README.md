@@ -5,9 +5,8 @@ Game tentang bola yang mengambil koin agar bisa menang
 ## Daftar Isi
 
 - [Tentang Proyek](#tentang-proyek)
-- [Fitur](#fitur)
 - [Prasyarat](#prasyarat)
-- [Instalasi](#instalasi)
+- [Download](#Download)
 - [Penggunaan](#penggunaan)
 - [Kontak](#kontak)
 
@@ -21,21 +20,9 @@ Software atau tool yang diperlukan sebelum instalasi:
 - Unity 2020.3 atau versi terbaru
 - Git
 
-## Instalasi
+## Download
 
-Langkah-langkah untuk menginstal dan menjalankan proyek ini di mesin lokal Anda:
-
-1. Clone repositori ini
-
-    ```sh
-    git clone https://github.com/namauser/nama-proyek-game.git
-    ```
-
-2. Buka proyek dengan Unity:
-
-    - Buka Unity Hub
-    - Klik "Add"
-    - Pilih folder proyek yang telah di-clone
+(https://drive.google.com/drive/folders/1uTZCutNd1DyltnI5tN9wtFY46e6yZUAJ?usp=sharing)
 
 ## Penggunaan
 
