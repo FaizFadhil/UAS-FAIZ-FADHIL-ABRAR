@@ -13,6 +13,18 @@ Game tentang bola yang mengambil koin agar bisa menang
 ## Tentang Proyek
 
 Projek ini dibuat untuk pengumpulan tugas UAS Pemograman 5 
+
+## Screenshots
+Contoh Screenshot projek:
+
+![Asset Gambar](/assetgame.png)
+
+### Tampilan Mulai
+![Mulai](/mulai.png)
+
+### Tampilan Selesai
+![Selesai](/Selesai.png)
+
 ## Prasyarat
 
 Software atau tool yang diperlukan sebelum instalasi:
